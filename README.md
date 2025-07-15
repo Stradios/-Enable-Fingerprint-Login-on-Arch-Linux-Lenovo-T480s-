@@ -7,7 +7,7 @@ This guide walks you through configuring fingerprint authentication for login an
 ## 📦 Step 1: Install Required Packages
 
 ```bash
-sudo pacman -S python-validity
+yay -S python-validity
 yay -S open-fprintd
 ```
 
