@@ -1,4 +1,5 @@
 # 🛡️ Enable Fingerprint Login on Arch Linux (Lenovo T480s)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M8K423K344)
 
 This guide walks you through configuring fingerprint authentication for login and `sudo` on Arch Linux with a Lenovo T480s using **python-validity** and **open-fprintd**.
 
